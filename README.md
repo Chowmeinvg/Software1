@@ -1,3 +1,5 @@
+
+**EN LA BRANCH *MASTER* SE ENCUENTRA TODO EL CODIGO Y PROYECTO**
 # Software1
 Prueba de concepto basada en la arquitectura propuesta. 
 
