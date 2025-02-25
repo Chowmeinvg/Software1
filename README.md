@@ -49,6 +49,6 @@ Sigue los pasos a continuación para ejecutar este proyecto en tu máquina local
 1. **Clonar el repositorio**:
 git clone https://github.com/tuusuario/mi-guru.git
 
-2. 
-   ```bash
-   git clone https://github.com/Chowmeinvg/Software1.git
+2. Agregar las dependencias mencionadas anteriormente (ya deberian de incluirse al clonar).
+
+3. Correr.
