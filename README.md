@@ -34,9 +34,9 @@ Para poder ejecutar este proyecto, necesitas tener instalados los siguientes com
 
 
 
-- **Java** (Versión 11 o superior)
-- **Maven** (si se usa Maven para gestión de dependencias)
-- **MySQL** (si tu proyecto interactúa con una base de datos)
+- **Java** (Versión 11 o superiorm JDK17)
+- **Maven** 
+- **MySQL** 
   
 **Dependencias adicionales**:
   <dependency>
